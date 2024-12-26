@@ -22,7 +22,7 @@ By means of a GPU it is possible to speed up the process of exploring nodes in a
 <p align="center">
   <img width="460" height="300" src="https://github.com/user-attachments/assets/e93f35c7-5a70-4729-8fb4-e64e211562ef">
   <img width="460" height="300" src="https://github.com/user-attachments/assets/f5beb511-bb6d-4701-8383-3f6571fe6801">
-  <img width="460" height="300" src="https://github.com/user-attachments/assets/89a93734-f0b0-4aef-b5e2-6679eb161006">
+  <img width="460" height="300" src="https://github.com/user-attachments/assets/c10880a5-741a-457e-aaab-c995967a4eeb">
 </p>
 
 
